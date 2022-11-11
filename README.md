@@ -25,6 +25,8 @@ pre-trainde model: https://drive.google.com/file/d/12ZsTkRlEPG8DL50Wb_tdDmHINv9p
 
 pre-trainde model weights: https://drive.google.com/file/d/1bj4uJBu7rbO6OaIZg--IkOC5yke_WiLn/view?usp=share_link
 
+Tokenizer: https://drive.google.com/file/d/1-01g2VBsa6hMSCRB-DGylfffJDrCRXu4/view?usp=share_link
+
 # References:
 https://www.biorxiv.org/content/10.1101/626507v4.full.pdf
 
