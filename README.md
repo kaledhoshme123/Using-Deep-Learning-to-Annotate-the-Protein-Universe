@@ -1,8 +1,9 @@
 # Using Deep Learning to Annotate the Protein Universe
 
 Understanding the relationship between amino acid sequence and protein function is a long-standing problem in molecular biology with far-reaching scientific implications. Despite six decades of progress, state-of-the-art techniques cannot annotate 1/3 of microbial protein sequences, hampering our ability to exploit sequences collected from diverse organisms. In this code, i explore an alternative methodology based on deep learning that learns the relationship between unaligned amino acid sequences and their functional annotations across all 17929 families of the Pfam database. 
+![amino-acids-cover](https://user-images.githubusercontent.com/108609519/201396947-91987829-a3ef-489a-8ae7-12b7d65aeb60.jpg)
 
-My study focused on only 600 families out of all the families included in the datasetز
+My study focused on only 600 families out of all the families included in the dataset.
 
 # Model Architecture
 
